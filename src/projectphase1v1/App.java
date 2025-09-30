@@ -12,7 +12,8 @@ public class App extends Application {
         Scene scene = new Scene(label, 400, 200);
         stage.setScene(scene);
         stage.setTitle("HelloFX");
-        // hajis
+        // fuck 
+        // hhhhh
         stage.show();
         //i have started using git
     }
