@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch projectphase1v1",
+      "request": "launch",
+      "mainClass": "projectphase1v1.App",
+"vmArgs": "--module-path D:\\JavaFxSDK\\javafx-sdk-21.0.7\\lib --add-modules javafx.controls,javafx.fxml -Dprism.order=sw -Dprism.verbose=true"
+    }
+  ]
+}
